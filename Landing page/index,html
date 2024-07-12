@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Landing Page</title>
+    <style>
+        body{
+            background-image: url(beas.jpeg)
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coffee Lovers Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: white; /* Set text color to white */
+            background-color: #333; /* Set background color to a dark shade for contrast */
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Coffee Lovers' Haven</h1>
+    <p>
+        Discover the fascinating world of coffee with us! Whether you're a casual coffee drinker or an aficionado, this page is for you. Learn about different coffee beans, brewing methods, and explore the rich history of coffee culture from around the globe.
+    </p>
+    <p>
+        Coffee is more than just a beverage; it's a ritual, an art, and a science. Join our community of coffee enthusiasts and deepen your appreciation for the bean.
+    </p>
+    <p>
+        Stay tuned for updates, tips, and recommendations from our experts. Embrace the aroma, savor the flavor, and immerse yourself in everything coffee.
+    </p>
+    <p>
+        Let's brew something great together!
+    </p>
+</body>
+</html>
